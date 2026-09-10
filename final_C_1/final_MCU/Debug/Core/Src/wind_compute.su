@@ -1,0 +1,5 @@
+../Core/Src/wind_compute.c:121:21:clampf	24	static
+../Core/Src/wind_compute.c:138:20:fill_est_power	32	static
+../Core/Src/wind_compute.c:155:6:WindCompute_Init	4	static
+../Core/Src/wind_compute.c:164:7:WindCompute_AvailablePower	40	static
+../Core/Src/wind_compute.c:197:6:WindCompute_Step	80	static

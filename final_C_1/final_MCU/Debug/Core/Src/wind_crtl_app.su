@@ -1,0 +1,14 @@
+../Core/Src/wind_crtl_app.c:51:6:WindCtrl_Init	8	static
+../Core/Src/wind_crtl_app.c:66:6:WindCtrl_Periodic	536	static
+../Core/Src/wind_crtl_app.c:132:6:WindCtrl_OnSerialParamChanged	8	static
+../Core/Src/wind_crtl_app.c:141:6:WindCtrl_OnSerialModeChanged	4	static
+../Core/Src/wind_crtl_app.c:148:13:SendHello	24	static
+../Core/Src/wind_crtl_app.c:159:13:SendHeartbeat	24	static
+../Core/Src/wind_crtl_app.c:170:13:SendWindOutput	64	static
+../Core/Src/wind_crtl_app.c:188:13:SendParamSync	112	static
+../Core/Src/wind_crtl_app.c:211:13:HandleTcpLine	56	static
+../Core/Src/wind_crtl_app.c:259:13:WindCtrl_Compute1s	8	static
+../Core/Src/wind_crtl_app.c:267:13:tcp_send_msg	544	static
+../Core/Src/wind_crtl_app.c:279:13:ftoa2	56	static
+../Core/Src/wind_crtl_app.c:299:13:json_get_type	32	static
+../Core/Src/wind_crtl_app.c:315:13:json_get_float	88	static
