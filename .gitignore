@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 数据库与运行时产物
+ems.db
+ems.db-wal
+ems.db-shm
+ems_demo.db
+ems_demo.db-wal
+ems_demo.db-shm
+*.db
+*.db-wal
+*.db-shm
+
+# 测试临时目录
+.test_tmp/
+.tmp/
+.test_run_*.db
+
+# IDE / 虚拟环境
+.idea/
+.venv/
+venv/
+
+# 工具与依赖（本地安装的 pypdf 等）
+_tools/
